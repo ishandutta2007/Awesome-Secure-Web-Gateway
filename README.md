@@ -42,53 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Zscaler Internet Access (ZIA)](https://www.zscaler.com/products/zscaler-internet-access)**  
-
-  Leading cloud-native Secure Web Gateway and cornerstone of Zscaler’s SSE platform, delivering scalable SSL inspection, threat protection, and policy enforcement from a global security cloud.
-
-
-
-- **[Netskope SWG](https://www.netskope.com/)**  
-
-  Cloud SWG tightly integrated with Netskope’s SSE/SASE platform, strong in data protection, CASB context, and advanced threat defense.
-
-
-
-- **[Cisco Umbrella](https://umbrella.cisco.com/)**  
-
-  DNS-layer security and cloud SWG (part of Cisco Secure Access / SSE) that provides first-line protection and full proxy capabilities, especially popular in Cisco environments.
-
-
-
-- **[Cloudflare Gateway](https://www.cloudflare.com/products/zero-trust/gateway/)**  
-
-  Secure web gateway delivered on Cloudflare’s global edge network, offering DNS filtering, HTTP/S inspection, and Zero Trust policy enforcement with strong performance.
-
-
-
-- **[Forcepoint ONE](https://www.forcepoint.com/)**  
-
-  Cloud security platform that includes SWG capabilities alongside DLP and other data-centric controls.
-
-
-
-- **[iboss, Skyhigh Security, Lookout](https://www.iboss.com/)**  
-
-  Cloud SWG and SSE offerings focused on web security, remote user protection, and threat prevention.
-
-
-
-- **[Versa Secure Internet Access, Cato Networks](https://www.catonetworks.com/)**  
-
-  SASE platforms that include Secure Web Gateway functionality as part of a converged networking and security service.
-
-
-
-- **[Other SWG / SSE platforms](https://www.zscaler.com/)**  
-
-  Additional cloud-delivered web security and Security Service Edge solutions from major security vendors.
+| Platform | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Cloudflare Gateway](https://www.cloudflare.com/products/zero-trust/gateway/)** | Secure web gateway delivered on Cloudflare’s global edge network, offering DNS filtering, HTTP/S inspection, and Zero Trust policy enforcement. | **$7 / user / month** (Pay-as-you-go tier, billed annually) | **Free forever** for up to **50 users** (24-hr log retention, 3 physical locations, max 150k DNS queries/seat/mo) |
+| **[Zscaler Internet Access (ZIA)](https://www.zscaler.com/products/zscaler-internet-access)** | Cloud-native Secure Web Gateway delivering scalable SSL inspection, threat protection, and policy enforcement from a global security cloud. | **$8 / user / month** ($72 / user / year entry ZIA tier) | **30-day free trial** (Proof of Concept / evaluation program for modules like Advanced Cloud Sandbox) |
+| **[Cisco Umbrella](https://umbrella.cisco.com/)** | DNS-layer security and cloud SWG providing first-line protection, full proxy capabilities, and integration with Cisco Secure Access. | **$2.20 / user / month** ($26.40 / user / year starting for DNS Security Essentials) | **14-day free trial** (up to 21-day trial available via MSP partner program) |
+| **[Netskope SWG](https://www.netskope.com/)** | Cloud SWG tightly integrated with Netskope’s SSE/SASE platform, strong in data protection (DLP), CASB context, and threat defense. | **$4 / user / month** ($48 / user / year starting tier for base SWG + CASB bundle) | **30-day free trial** (evaluation / PoC trial period; 14-day test drive for Netskope Private Access) |
+| **[Forcepoint ONE](https://www.forcepoint.com/)** | Cloud security platform providing SWG capabilities alongside Data Loss Prevention (DLP) and data-centric Zero Trust controls. | **$4.58 / user / month** ($55 / user / year starting tier for Web Security Edition) | **30-day free trial** (custom evaluation / PoC available upon request) |
+| **[iboss](https://www.iboss.com/)** | Cloud SWG and SSE platform focused on web security, containerized architecture, remote user protection, and threat prevention. | **$6 / user / month** ($72 / user / year starting tier for Zero Trust Core package) | **14-day free trial** (Proof of Concept access available upon request) |
+| **[Skyhigh Security](https://www.skyhighsecurity.com/)** | Cloud SWG and SSE platform focused on web security, remote user protection, and inline data loss prevention. | **$5 / user / month** ($60 / user / year starting tier for SSE Essentials) | **1-day guided lab trial** (interactive hands-on workshops & temporary PoC accounts) |
+| **[Lookout Secure Web Gateway](https://www.lookout.com/)** | Cloud SWG with integrated mobile endpoint security, CASB context, and advanced malware protection. | **$5 / user / month** ($60 / user / year starting tier for enterprise web/mobile security) | **90-day free trial** (for enterprise mobile and web security evaluation) |
+| **[Versa Secure Internet Access](https://www.versa-networks.com/)** | SASE platform including Secure Web Gateway functionality as part of a converged networking and security service. | **$7.50 / user / month** ($90 / user / year starting tier for VSIA Essential) | **90-day free trial** (up to 100 users for qualifying enterprise accounts) |
+| **[Cato Networks](https://www.catonetworks.com/)** | Converged SASE platform offering cloud-native SWG, FWaaS, and ZTNA across a global private backbone. | **$6 / user / month** ($72 / user / year starting per-user tier) | **30-day free trial** (PoC evaluation license; includes simulated read-only Demo Mode) |
 
 
 
