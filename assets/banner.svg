@@ -47,8 +47,8 @@
     <text x="0" y="75" class="title-text" filter="url(#glow)">Awesome Secure</text>
     <text x="0" y="120" class="title-text" filter="url(#glow)">Web Gateway 🛡️</text>
 
-    <text x="0" y="162" class="sub-text">Curated SaaS Platforms &amp; Open-Source Tools for Cloud Web Security,</text>
-    <text x="0" y="186" class="sub-text">HTTPS Inspection, URL Filtering, CASB &amp; SASE/SSE</text>
+    <text x="0" y="162" class="sub-text">Curated SaaS Platforms &amp; Open-Source Security Tools,</text>
+    <text x="0" y="186" class="sub-text">Cloud Web Security, HTTPS Inspection, CASB &amp; SASE/SSE</text>
 
     <g transform="translate(0, 218)">
       <rect x="0" y="0" width="140" height="32" rx="16" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
@@ -62,7 +62,7 @@
     </g>
   </g>
 
-  <g transform="translate(890, 70)" class="floating-shield">
+  <g transform="translate(920, 65)" class="floating-shield">
     <path d="M 130,10 L 240,50 V 130 C 240,200 130,250 130,250 C 130,250 20,200 20,130 V 50 Z" fill="#0b1329" stroke="#38bdf8" stroke-width="3" filter="url(#glow)"/>
     <path d="M 130,25 L 225,60 V 130 C 225,188 130,230 130,230 C 130,230 35,188 35,130 V 60 Z" fill="#0f172a" stroke="rgba(56, 189, 248, 0.4)" stroke-width="1.5"/>
 
